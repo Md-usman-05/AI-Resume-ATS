@@ -1,0 +1,11 @@
+John Doe
+Software Engineer
+Experience:
+- Built Python web applications using Flask
+- Worked with HTML, CSS, and JavaScript
+- Developed REST APIs and database integrations
+Skills:
+- Python
+- Flask
+- SQL
+- Git

@@ -1,0 +1,8 @@
+Software Engineer
+Requirements:
+- Python
+- Flask
+- REST APIs
+- SQL
+- Git
+- Web development
