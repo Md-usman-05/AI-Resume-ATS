@@ -1,3 +1,4 @@
+MINOR PROJECT -2 (INTERNS ELITE)
 # AI Resume ATS Analyzer
 
 ## Overview
