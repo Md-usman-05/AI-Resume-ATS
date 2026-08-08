@@ -1,5 +1,5 @@
 MINOR PROJECT -2 (INTERNS ELITE)
-# AI Resume ATS Analyzer
+# AI Resume ATS (Application Tracking System)Analyzer
 
 ## Overview
 
